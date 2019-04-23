@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  thanh
+=======
+hello
+>>>>>>> 94ed2f4dc2068b6fa7eb79ce1cc2ef0d419d1803
